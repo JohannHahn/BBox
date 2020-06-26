@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/johann/CLionProjects/bbox
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/johann/CLionProjects/bbox/cmake-build-release

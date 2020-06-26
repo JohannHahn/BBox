@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/bbox_photos.dir/bbox_photos.cpp.o  -o bbox_photos 
